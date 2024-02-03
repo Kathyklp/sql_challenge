@@ -13,5 +13,7 @@ This challenge is divided into three parts
 Entity Relationship Diagram is included or table schemas provided for all tables (10 points)  
   completed
 
-  
+  Columns are set to the correct data type (10 points)   completed
+Primary Keys set for each table (10 points)     completed
+Correctly references related tables (10 points)   completed
   
